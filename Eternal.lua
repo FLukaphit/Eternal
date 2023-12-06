@@ -32,7 +32,7 @@ spawnTower("Roku Black (Scythe)", CFrame.new(-1138.790, 12.156, -358.493), 950)
 spawnTower("Luc", CFrame.new(-1138.790, 12.156, -358.493), 1500)
 spawnTower("Andi (Undead)", CFrame.new(-1138.790, 12.156, -358.493), 1300)
 spawnTower("Vagito (Blue)", CFrame.new(-1138.790, 12.156, -358.493), 2250)
-spawnTower("", CFrame.new(-1138.790, 12.156, -358.493), 2000)
+spawnTower("Asto (Demonic Angel)", CFrame.new(-1138.790, 12.156, -358.493), 2000)
    wait(1)
     end
 end)
