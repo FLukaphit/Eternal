@@ -29,10 +29,10 @@ end
 
 spawnTower("Heny", CFrame.new(-1138.790, 12.156, -358.493), 800)
 spawnTower("Roku Black (Scythe)", CFrame.new(-1138.790, 12.156, -358.493), 950)
-spawnTower("Melice (Burst Element)", CFrame.new(-1138.790, 12.156, -358.493), 1500)
-spawnTower("Zamas (God)", CFrame.new(-1138.790, 12.156, -358.493), 1300)
-spawnTower("Tomi", CFrame.new(-1138.790, 12.156, -358.493), 2250)
-spawnTower("Vagito (Blue)", CFrame.new(-1138.790, 12.156, -358.493), 2000)
+spawnTower("Luc", CFrame.new(-1138.790, 12.156, -358.493), 1500)
+spawnTower("Andi (Undead)", CFrame.new(-1138.790, 12.156, -358.493), 1300)
+spawnTower("Vagito (Blue)", CFrame.new(-1138.790, 12.156, -358.493), 2250)
+spawnTower("", CFrame.new(-1138.790, 12.156, -358.493), 2000)
    wait(1)
     end
 end)
@@ -55,7 +55,7 @@ spawnTower("Roku Black (Scythe)", CFrame.new(-993.774, -41.977, -194.493), 950)
 spawnTower("Melice (Burst Element)", CFrame.new(-993.774, -41.977, -194.493), 1500)
 spawnTower("Zamas (God)", CFrame.new(-993.774, -41.977, -194.493), 1300)
 spawnTower("Tomi", CFrame.new(-993.774, -41.977, -194.493), 2250)
-spawnTower("Vagito (Super)", CFrame.new(-993.774, -41.977, -194.493), 2000)
+spawnTower("Asto (Demonic Angel)", CFrame.new(-993.774, -41.977, -194.493), 2000)
    wait(1)
     end
 end)
