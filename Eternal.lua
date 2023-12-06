@@ -27,12 +27,12 @@ MainSection:NewToggle("Spawn Tower Plannet Namek", "Enable/Disable tower spawn",
     game:GetService("ReplicatedStorage"):WaitForChild("Functions"):WaitForChild("SpawnTower"):InvokeServer(unpack(args))
 end
 
-spawnTower("Sato", CFrame.new(-1138.790, 12.156, -358.493), 800)
+spawnTower("Heny", CFrame.new(-1138.790, 12.156, -358.493), 800)
 spawnTower("Roku Black (Scythe)", CFrame.new(-1138.790, 12.156, -358.493), 950)
 spawnTower("Melice (Burst Element)", CFrame.new(-1138.790, 12.156, -358.493), 1500)
 spawnTower("Zamas (God)", CFrame.new(-1138.790, 12.156, -358.493), 1300)
 spawnTower("Tomi", CFrame.new(-1138.790, 12.156, -358.493), 2250)
-spawnTower("Vagito (Super)", CFrame.new(-1138.790, 12.156, -358.493), 2000)
+spawnTower("Vagito (Blue)", CFrame.new(-1138.790, 12.156, -358.493), 2000)
    wait(1)
     end
 end)
